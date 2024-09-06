@@ -1,0 +1,23 @@
+{
+    "Inicio": "Home",
+    "Sobre mí": "About me",
+    "Proyectos": "Projects",
+    "Contacto": "Contact",
+    "Necesitas contactarme?": "Do you need to contact me?",
+    "Aquí tendrás las opciones para poder contactarme": "Here you will have the options to contact me",
+    "¡Conóceme!": "Get to know me!",
+    "Soy un programador fullstack nivel junior actualmente, estudié una carrera técnica en programación de software en donde aprendí los fundamentos en Python, CRUD en MySQL utilizando phpMyAdmin y conocimientos en HTML, CSS, JavaScript, PHP y JAVA": "I am currently a junior level fullstack programmer, I studied a technical degree in software programming where I learned the fundamentals in Python, CRUD in MySQL using phpMyAdmin and knowledge of HTML, CSS, JavaScript, PHP and JAVA",
+    "Cuento con un año de experiencia desarrollando en una empresa, siendo 6 meses de ese año como pasante debido a las prácticas que requería para terminar la carrera y los otros meses como desarrollador": "I have one year of experience developing in a company, 6 months of that year as an intern due to the internships required to finish the degree and the other months as a developer",
+    "Allí pude aprender a usar la librería React, redux, redux saga y el framework Nextjs": "There I was able to learn how to use the React library, redux, redux saga and the Nextjs framework",
+    "También pude aprender sobre bases de datos no relacionales como Firebase y librerías CSS como styled component y mui material": "I was also able to learn about non-relational databases like Firebase and CSS libraries like styled component and mui material",
+    "Estoy abierto a oportunidades laborales en las que pueda aportar, aprender y crecer": "I am open to job opportunities where I can contribute, learn and grow",
+    "Si tienes una buena oportunidad que coincida con mis habilidades y experiencia, no dudes en contactarme": "If you have a good opportunity that matches my skills and experience, please do not hesitate to contact me",
+    "Hola, yo soy Oswaldo Natera": "Hi, I am Oswaldo Natera",
+    "Soy un programador fullstack nivel junior": "I am a junior level fullstack programmer",
+    "Si deseas saber más de mí, te invito a explorar esta página": "If you want to know more about me, I invite you to explore this page",
+    "Mis trabajos": "My works",
+    "Aquí encontraras algunos de los proyectos personales que he hecho": "Here you will find some of the personal projects I have done",
+    "Calculadora simple": "Simple calculator",
+    "Una calculadora hecha usando Nextjs y la biblioteca CSS styled-components": "A calculator made using Nextjs and the styled-components CSS library",
+    "Código Fuente": "Source Code"
+}

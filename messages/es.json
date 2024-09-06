@@ -1,0 +1,23 @@
+{
+    "Inicio": "Inicio",
+    "Sobre mí": "Sobre mí",
+    "Proyectos": "Proyectos",
+    "Contacto": "Contacto",
+    "Necesitas contactarme?": "Necesitas contactarme?",
+    "Aquí tendrás las opciones para poder contactarme": "Aquí tendrás las opciones para poder contactarme",
+    "¡Conóceme!": "¡Conóceme!",
+    "Soy un programador fullstack nivel junior actualmente, estudié una carrera técnica en programación de software en donde aprendí los fundamentos en Python, CRUD en MySQL utilizando phpMyAdmin y conocimientos en HTML, CSS, JavaScript, PHP y JAVA": "Soy un programador fullstack nivel junior actualmente, estudié una carrera técnica en programación de software en donde aprendí los fundamentos en Python, CRUD en MySQL utilizando phpMyAdmin y conocimientos en HTML, CSS, JavaScript, PHP y JAVA",
+    "Cuento con un año de experiencia desarrollando en una empresa, siendo 6 meses de ese año como pasante debido a las prácticas que requería para terminar la carrera y los otros meses como desarrollador": "Cuento con un año de experiencia desarrollando en una empresa, siendo 6 meses de ese año como pasante debido a las prácticas que requería para terminar la carrera y los otros meses como desarrollador",
+    "Allí pude aprender a usar la librería React, redux, redux saga y el framework Nextjs": "Allí pude aprender a usar la librería React, redux, redux saga y el framework Nextjs",
+    "También pude aprender sobre bases de datos no relacionales como Firebase y librerías CSS como styled component y mui material": "También pude aprender sobre bases de datos no relacionales como Firebase y librerías CSS como styled component y mui material",
+    "Estoy abierto a oportunidades laborales en las que pueda aportar, aprender y crecer": "Estoy abierto a oportunidades laborales en las que pueda aportar, aprender y crecer",
+    "Si tienes una buena oportunidad que coincida con mis habilidades y experiencia, no dudes en contactarme": "Si tienes una buena oportunidad que coincida con mis habilidades y experiencia, no dudes en contactarme",
+    "Hola, yo soy Oswaldo Natera": "Hola, yo soy Oswaldo Natera",
+    "Soy un programador fullstack nivel junior": "Soy un programador fullstack nivel junior",
+    "Si deseas saber más de mí, te invito a explorar esta página": "Si deseas saber más de mí, te invito a explorar esta página",
+    "Mis trabajos": "Mis trabajos",
+    "Aquí encontraras algunos de los proyectos personales que he hecho": "Aquí encontraras algunos de los proyectos personales que he hecho",
+    "Calculadora simple": "Calculadora simple",
+    "Una calculadora hecha usando Nextjs y la biblioteca CSS styled-components": "Una calculadora hecha usando Nextjs y la biblioteca CSS styled-components",
+    "Código Fuente": "Código Fuente"
+}
